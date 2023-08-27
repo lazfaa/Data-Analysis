@@ -23,4 +23,6 @@
 
 Data Set:- <a>https://drive.google.com/file/d/1dpTWL6SghdVyWgz8gqX2z2ISobtb-3Qf/view?usp=sharing</a>
 
+
+# POWER BI Data Visualization Project <sales>
 ![DASHBOARD Screenshot (171)](https://github.com/lazfaa/Restaurant-Data-Analysis/assets/68544833/e75af64c-ae17-4ddb-bfc3-1081388c58db)
