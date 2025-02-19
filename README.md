@@ -1,5 +1,5 @@
-[Empowering Seamless Food Decision-Making] :
-<a>https://github.com/lazfaa/Data-Analysis/blob/main/Zomato%20Product%20Improvement%20Project%20PPT%20.pdf</a>
+# [Empowering Seamless Food Decision-Making @Zomato] :
+<a>Zomato Product Improvement Project PPT .pdf</a>
 
 # Exploratory Data Analysis 
   In this notebook, I have performed a detailed analysis on Indian Restaurants Dataset. 
